@@ -29,5 +29,5 @@ room lighting, temperature control, and gas safety using multiple sensors.
 - Embedded C
 
 ## Author
-Pradyu
+Pradyumna
 ECE Undergraduate
